@@ -4,8 +4,8 @@ Header
 export default function Home() {
   return (
     <div>
-      <HeroSection/>
       <Header/>
+      <HeroSection/>
     </div>
   );
 }
